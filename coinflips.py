@@ -1,3 +1,5 @@
+print(“Guru Prasad M\n 1AY24AI037\n M Section")
+
 import random as ran 
 def streak(flip):
     for i in range(len(flip)-5):
