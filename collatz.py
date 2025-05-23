@@ -1,3 +1,5 @@
+print(“Guru Prasad M\n 1AY24AI037\n M Section")
+
 def collatz(a):
     if(a%2==0):
         print(a,"is even")
