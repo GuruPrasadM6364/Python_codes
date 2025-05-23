@@ -1,3 +1,5 @@
+print(“Guru Prasad M\n 1AY24AI037\n M Section")
+
 print('Name: Guru Prasad M \nUSN: 1AY24AI037 \nSection: M ')
 
 grid = [
