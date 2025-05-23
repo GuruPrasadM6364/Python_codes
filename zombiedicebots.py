@@ -1,5 +1,8 @@
 '''write a program to create a bot for the game Zombie Dice
     The bot should be able to play the game and make decisions based on the rules of the game. '''
+
+print(“Guru Prasad M\n 1AY24AI037\n M Section")
+
 import random as ran
 import time
 dice={
