@@ -1,4 +1,6 @@
 #declare a dictionary of 9 keys and empty values
+print(“Guru Prasad M\n 1AY24AI037\n M Section")
+
 board ={
         1: ' ', 2: ' ', 3: ' ',
         4: ' ', 5: ' ', 6: ' ',
