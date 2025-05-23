@@ -1,3 +1,5 @@
+print(“Guru Prasad M\n 1AY24AI037\n M Section")
+
 import random as ran 
 n=ran.randint(0,3)
 s=int(input("Enter the number of times to play:"))
