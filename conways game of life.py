@@ -1,4 +1,4 @@
-print('Name: S. Vyshnavi \nUSN: 1AY24AI098 \nSection: O\n ')
+print('Name:Guru Prasad M \nUSN: 1AY24AI037 \nSection: M\n ')
 
 import random, copy
 
