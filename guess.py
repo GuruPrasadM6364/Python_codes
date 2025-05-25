@@ -1,5 +1,5 @@
 print("Guru Prasad M")
-print("1AY24AII-37")
+print("1AY24AI037")
 print("M section")
 import random as ran
 n=ran.randint(1,101)
