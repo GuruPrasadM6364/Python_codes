@@ -1,4 +1,4 @@
-print('Name: Guru Prasad M \nUSN: 1AY24AI037 \nSection: O\n ')
+print('Name: Guru Prasad M \nUSN: 1AY24AI037 \nSection: M\n ')
 
 def display_inventory(inventory):
     print("Inventory:")
